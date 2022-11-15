@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fightmens/static/css/main.3ec7b0ba.css",
+    "main.js": "/fightmens/static/js/main.c50a071d.js",
+    "static/media/sword.mp4": "/fightmens/static/media/sword.0e48379e3bb270198de8.mp4",
+    "index.html": "/fightmens/index.html",
+    "main.3ec7b0ba.css.map": "/fightmens/static/css/main.3ec7b0ba.css.map",
+    "main.c50a071d.js.map": "/fightmens/static/js/main.c50a071d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec7b0ba.css",
+    "static/js/main.c50a071d.js"
+  ]
+}
